@@ -19,4 +19,3 @@
 
 #sed -i '$a src-git helloworld https://github.com/P3TERX/helloworld' feeds.conf.default
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
-echo 'src-git eqosplus  https://github.com/sirpdboy/luci-app-eqosplus' >>feeds.conf.default
